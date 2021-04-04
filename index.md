@@ -1212,6 +1212,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Georgia Young (former FSF staff)
 1. Georg Link (Bitergia, CHAOSS)
 1. Georg Wehrmann (@xnorxnor)
+1. Gerald Crimp (Free software user and advocate)
 1. Gerald Squelart (Mozilla)
 1. Gerard Braad
 1. Gerardo Torres
